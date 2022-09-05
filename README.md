@@ -1,6 +1,6 @@
 # Description
 
-Hi, I'm Grégory Hue. I'm a IT engineer with a passion for development.
+Hi, I'm Grégory Hue. I'm an IT engineer with a passion for development.
 
 ## Technologies
 
@@ -30,9 +30,9 @@ I teach myself throught personal projects. Here's a non-exhaustive list of them:
 
 - **UterEabs** - Food distribution plateform similar to Uber Eats. Using VueJS, Express, MongoDB, MySQL, Docker. Currently reworking it, see *QuackSnack*
 - **SearchPatterns** - Program to search patterns in a CSV file. Using C.
-- **PySudokuSolver** - Program to solve Sudokus of various difficulties. Using Python.
+- [**PySudokuSolver**](https://github.com/GregoryHue/PySudokuSolver) - Program to solve Sudokus of various difficulties. Using Python.
 - **EncodeTextImage** - Program to turn a text into an image and vice-versa. Using Python.
-- **QuackSnack** - Food distribution plateform. Using VueJS, Django, PostgreSQL.
+- [**QuackSnack**](https://github.com/QuackSnack/QuackSnackBack) - Food distribution plateform. Using VueJS, Django, PostgreSQL.
 
 ## Career wish
 
