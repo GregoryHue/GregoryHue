@@ -28,14 +28,13 @@ Hi, I'm Grégory Hue. I'm an IT engineer with a passion for development.
 
 I teach myself throught personal projects. Here's a non-exhaustive list of them:
 
-- **UterEabs** - Food distribution plateform similar to Uber Eats. Using VueJS, Express, MongoDB, MySQL, Docker. Currently reworking it, see *QuackSnack*
+- **UterEabs** - Food distribution plateform similar to Uber Eats. Using VueJS, Express, MongoDB, MySQL, Docker. Currently reworking it, see *QuackSnack*.
 - **SearchPatterns** - Program to search patterns in a CSV file. Using C. Educational purpose.
-- [**PySudokuSolver**](https://github.com/GregoryHue/PySudokuSolver) - Program to solve Sudokus of various difficulties. Using Python. Educational purpose.
-- [**EncodeTextImage**](https://github.com/GregoryHue/EncodeTextImage) - Program to turn a text into an image and vice-versa. Using Python. Educational purpose.
 - [**JamnikWebsite**](https://github.com/GregoryHue/JamnikWebsite) - Website for a Slovenian woodworking company. A test version is available at [**https://mizarstvo-jamnik-test.xyz/**](https://mizarstvo-jamnik-test.xyz/). Using React, Vite, Django, PostgreSQL, Bash. Deployed on DigitalOcean with an Ubuntu VM. The repository is private for security reasons.
 - [**QuackSnack**](https://github.com/QuackSnack/QuackSnackBack) - Food distribution plateform. Using React, Django, PostgreSQL. Educational purpose.
-- [**DuckDetector**](https://github.com/GregoryHue/DuckDetector) - Machine Learning model. It makes an image classification of cpiitures between pictures that have a duck, and pictures that don't. Using Python, Jupyter, PyTorch. Educational purpose.
-
+- [**DuckDetector**](https://github.com/GregoryHue/DuckDetector) - Machine Learning model. It makes an image classification of pictures between pictures that have a duck, and pictures that don't. Using Python, Jupyter, PyTorch. Educational purpose.
+- [**PySudokuSolver**](https://github.com/GregoryHue/PySudokuSolver) - Program to solve Sudokus of various difficulties. Using Python. Educational purpose.
+- [**EncodeTextImage**](https://github.com/GregoryHue/EncodeTextImage) - Program to turn a text into an image and vice-versa. Using Python. Educational purpose.
 
 ## Career wish
 
