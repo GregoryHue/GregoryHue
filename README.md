@@ -44,8 +44,8 @@ I wish to work in web/software/mobile/game developpement. I have an interest for
 
 ## Contact me
 
-- [Email](gregory.hue135@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/gregory-hue/)
+- [Email: gregory.hue135@gmail.com](mailto:gregory.hue135@gmail.com)
+- [LinkedIn: https://www.linkedin.com/in/gregory-hue/](https://www.linkedin.com/in/gregory-hue/)
 
 <!---
 GregoryHue/GregoryHue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
