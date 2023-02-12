@@ -2,6 +2,10 @@
 
 Hi, I'm Grégory Hue. I'm an IT engineer with a passion for development.
 
+## Career wish
+
+I wish to work in web/software/mobile/game developpement. I have an interest for data mining and machine learning althought I don't have a lot of experience in both domain yet.
+
 ## Technologies
 
 ### Languages & Frameworks I'm familiar with: 
@@ -38,9 +42,11 @@ I teach myself throught personal projects. Here's a non-exhaustive list of them:
 
 - **SearchPatterns** - Program to search patterns in a CSV file. Using C. Educational purpose. Unfinished an archived.
 
-## Career wish
+## Things I'm planning to learn/work on:
 
-I wish to work in web/software/mobile/game developpement. I have an interest for data mining and machine learning althought I don't have a lot of experience in both domain yet.
+- CI/CD
+- Unit Test
+- IAC tool (i.e Terraform)
 
 ## Contact me
 
