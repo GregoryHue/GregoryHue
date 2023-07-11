@@ -1,17 +1,19 @@
-# Description
+# Introduction
 
-Hi, I'm Grégory Hue. I'm an IT engineer with a passion for development.
+Hi, I'm Grégory Hue. I recently obtained an IT Engineer diploma and I have a passion for development.
 
 ## Career wish
 
 I wish to work in web/software/mobile/game developpement. I have an interest for data mining and machine learning althought I don't have a lot of experience in both domain yet.
 
+I'm looking for a company environment in which teaching, learning and growing are an important values.
+
 ## Technologies
 
 ### Languages & Frameworks I'm familiar with: 
 
-- Python: Django, Scrapy, Jupyter, PyTorch, Scrapy
-- JavaScript: React, VueJS, Express
+- Python: Django, Scrapy, Jupyter, PyTorch, Scrapy, Flask
+- JavaScript/TypeScript: React, VueJS, Express, Remix, NextJS
 - C#
 - PHP: Slim, Laravel
 - SQL: MySQL, PostgreSQL
@@ -30,16 +32,14 @@ I wish to work in web/software/mobile/game developpement. I have an interest for
 
 ## Projects
 
-I teach myself throught personal projects. Here's a non-exhaustive list of them:
+I teach myself throught personal projects. Here's a non-exhaustive list of them, ordered by the largest to smallest:
 
-- **UterEabs** - Food distribution plateform similar to Uber Eats. Using VueJS, Express, MongoDB, MySQL, Docker. Currently reworking it, see *QuackSnack*. Unfinished an archived.
 - [**JamnikWebsite**](https://github.com/GregoryHue/JamnikWebsite) - Website for a Slovenian woodworking company. A test version may be available at [**https://mizarstvo-jamnik-test.xyz/**](https://mizarstvo-jamnik-test.xyz/) (It's possible that I shut it down to save on money). Using React, Vite, Django, PostgreSQL, Bash. Deployed on DigitalOcean with an Ubuntu VM. The repository is private for security reasons. Almost finished.
-- [**DuckDetector**](https://github.com/GregoryHue/DuckDetector) - Machine Learning model. It detects if pictures contains a duck or not. Using Python, Jupyter, Tensorflow. Educational purpose. Unfinished.
-- [**DuckPicturesDownloader**](https://github.com/GregoryHue/DuckPicturesDownloader) - Web scraping program. It allows me to create a dataset for *DuckDetector*. Using Python, Scrapy. Educational purpose. Finished.
+- [**DuckOrCat**](https://github.com/GregoryHue/DuckOrCat) - Machine Learning model. It classifies pictures between Cats and Ducks. It also contains a Scrapy project to create a dataset and a Flask project to use the model in real condition. Using Python, Jupyter, Tensorflow, Flask, Scrapy. Educational purpose. Finished.
+- **UterEabs** - Food distribution plateform similar to Uber Eats. Using VueJS, Express, MongoDB, MySQL, Docker. Rework in progress, see *QuackSnack*. Unfinished and archived.
+- **QuackSnack**([front](https://github.com/QuackSnack/QuackSnackFront) & [back](https://github.com/QuackSnack/QuackSnackBack)) - Food distribution plateform. Using React, Django, PostgreSQL. Educational purpose. Unfinished.
 - [**PySudokuSolver**](https://github.com/GregoryHue/PySudokuSolver) - Program to solve Sudokus of various difficulties. Using Python. Educational purpose. Finished.
 - [**EncodeTextImage**](https://github.com/GregoryHue/EncodeTextImage) - Program to turn a text into an image and vice-versa. Using Python. Educational purpose. Finished.
-- [**QuackSnack**](https://github.com/QuackSnack/QuackSnackBack) - Food distribution plateform. Using React, Django, PostgreSQL. Educational purpose. Unfinished.
-
 - **SearchPatterns** - Program to search patterns in a CSV file. Using C. Educational purpose. Unfinished an archived.
 
 ## Things I'm planning to learn/work on:
