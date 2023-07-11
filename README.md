@@ -6,7 +6,7 @@ Hi, I'm Grégory Hue. I recently obtained an IT Engineer diploma and I have a pa
 
 I wish to work in web/software/mobile/game developpement. I have an interest for data mining and machine learning althought I don't have a lot of experience in both domain yet.
 
-I'm looking for a company environment in which teaching, learning and growing are an important values.
+I'm looking for a company environment in which teaching, learning and growing are important values.
 
 ## Technologies
 
