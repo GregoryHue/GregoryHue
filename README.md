@@ -46,7 +46,7 @@ I teach myself throught personal projects. Here's a non-exhaustive list of them:
 
 - CI/CD
 - Unit Test
-- IAC tool (i.e Terraform)
+- Terraform
 
 ## Contact me
 
