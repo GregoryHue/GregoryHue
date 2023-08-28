@@ -34,7 +34,7 @@ I'm looking for a company environment in which teaching, learning and growing ar
 
 I teach myself throught personal projects. Here's a non-exhaustive list of them, ordered by the largest to smallest:
 
-- [**JamnikWebsite**](https://github.com/GregoryHue/JamnikWebsite) - Website for a Slovenian woodworking company. Using React, Vite, Django, PostgreSQL, Bash. Deployed on DigitalOcean with an Ubuntu VM. The repository is private for security reasons. Almost finished.
+- [**JamnikWebsite**](https://github.com/GregoryHue/JamnikWebsite) - Website for a Slovenian woodworking company. Using React, Vite, Django, PostgreSQL, Bash. Deployed [here](https://mizarstvo-jamnik-test.xyz) on DigitalOcean with an Ubuntu VM. The repository is private for security reasons. Almost finished.
 - [**DuckOrCat**](https://github.com/GregoryHue/DuckOrCat) - Machine Learning model. It classifies pictures between Cats and Ducks. It also contains a Scrapy project to create a dataset and a Flask project to use the model in real condition. Using Python, Jupyter, Tensorflow, Flask, Scrapy. Educational purpose. Finished.
 - **UterEabs** - Food distribution plateform similar to Uber Eats. Using VueJS, Express, MongoDB, MySQL, Docker. Rework in progress, see *QuackSnack*. Unfinished and archived.
 - **QuackSnack**([front](https://github.com/QuackSnack/QuackSnackFront) & [back](https://github.com/QuackSnack/QuackSnackBack)) - Food distribution plateform. Using React, Django, PostgreSQL. Educational purpose. Unfinished.
