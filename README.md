@@ -1,6 +1,6 @@
 # Introduction
 
-Hi, I'm Grégory Hue. I recently obtained an IT Engineer diploma and I have a passion for development.
+Hi, I'm Grégory Hue. I obtained an IT Engineer diploma in 2022 and I have a passion for development. I'm currently working as a full-stack devleoper in Apsynet.
 
 ## Career wish
 
@@ -12,18 +12,18 @@ I'm looking for a company environment in which teaching, learning and growing ar
 
 ### Languages & Frameworks I'm familiar with: 
 
-- Python: Django, Scrapy, Jupyter, PyTorch, Scrapy, Flask
-- JavaScript/TypeScript: React, VueJS, Express, Remix, NextJS
+- Python: Django, Scrapy, Jupyter, Flask
+- JavaScript/TypeScript: React, Expo
 - C#
-- PHP: Slim, Laravel
-- SQL: MySQL, PostgreSQL
+- Database systems: MySQL, PostgreSQL, MongoDB
 
 ### OS I've worked on:
 
-- Windows 7/10/11 (with the use of WSL)
+- Windows 7/10/11 (with WSL)
 - Ubuntu
 - Debian
 - Raspberry Pi OS
+- MacOS
 
 ### Engines I've used:
 
@@ -32,9 +32,10 @@ I'm looking for a company environment in which teaching, learning and growing ar
 
 ## Projects
 
-I teach myself throught personal projects. Here's a non-exhaustive list of them, ordered by the largest to smallest:
+I teach myself throught personal projects. Here's a non-exhaustive list of them, ordered by the largest project to the smallest:
 
-- [**JamnikWebsite**](https://github.com/GregoryHue/JamnikWebsite) - Website for a Slovenian woodworking company. Using React, Vite, Django, PostgreSQL, Bash. A test version is deployed [here](https://mizarstvo-jamnik-test.xyz) on DigitalOcean with an Ubuntu VM. The repository is private for security reasons. Almost finished.
+- [**JamnikWebsite**](https://github.com/GregoryHue/JamnikWebsite) - Website for a Slovenian woodworking company. Using React, Vite, Django, PostgreSQL, Bash. A test version is deployed [here](https://mizarstvo-jamnik-test.xyz) on DigitalOcean with an Ubuntu VM. The repository is private for security reasons. Almost finished. [https://jw-test-deployment.xyz/home](https://jw-test-deployment.xyz/home)
+- [**Lyric Frequency**](https://github.com/GregoryHue/lyric-frequency) - Web interface that lets you search for an album and displays the occurrence of each word in the album. Using Python, Django, Scrapy, HTMLX, Supabase. Educational purpose. Finished. [https://lyric-frequency-edsapofefq-od.a.run.app/](https://lyric-frequency-edsapofefq-od.a.run.app/)
 - [**DuckOrCat**](https://github.com/GregoryHue/DuckOrCat) - Machine Learning model. It classifies pictures between Cats and Ducks. It also contains a Scrapy project to create a dataset and a Flask project to use the model in real condition. Using Python, Jupyter, Tensorflow, Flask, Scrapy. Educational purpose. Finished.
 - **UterEabs** - Food distribution plateform similar to Uber Eats. Using VueJS, Express, MongoDB, MySQL, Docker. Rework in progress, see *QuackSnack*. Unfinished and archived.
 - **QuackSnack**([front](https://github.com/QuackSnack/QuackSnackFront) & [back](https://github.com/QuackSnack/QuackSnackBack)) - Food distribution plateform. Using React, Django, PostgreSQL. Educational purpose. Unfinished.
@@ -45,8 +46,6 @@ I teach myself throught personal projects. Here's a non-exhaustive list of them,
 ## Things I'm planning to learn/work on:
 
 - CI/CD
-- Unit Test
-- Terraform
 
 ## Contact me
 
