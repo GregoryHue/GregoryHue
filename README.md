@@ -34,18 +34,17 @@ I'm looking for a company environment in which teaching, learning and growing ar
 
 I teach myself throught personal projects. Here's a non-exhaustive list of them, ordered by the largest project to the smallest:
 
-- [**JamnikWebsite**](https://github.com/GregoryHue/JamnikWebsite) - Website for a Slovenian woodworking company. Using React, Vite, Django, PostgreSQL, Bash. A test version is deployed [here](https://mizarstvo-jamnik-test.xyz) on DigitalOcean with an Ubuntu VM. The repository is private for security reasons. Almost finished. [https://jw-test-deployment.xyz/home](https://jw-test-deployment.xyz/home)
+- [**JamnikWebsite**](https://github.com/GregoryHue/JamnikWebsite) - Website for a Slovenian woodworking company. Using React, Vite, Django, PostgreSQL, Bash. The repository is private for security reasons. Almost finished. [https://jw-test-deployment.xyz/home](https://jw-test-deployment.xyz/home)
 - [**Lyric Frequency**](https://github.com/GregoryHue/lyric-frequency) - Web interface that lets you search for an album and displays the occurrence of each word in the album. Using Python, Django, Scrapy, HTMLX, Supabase. Educational purpose. Finished. [https://lyric-frequency-edsapofefq-od.a.run.app/](https://lyric-frequency-edsapofefq-od.a.run.app/)
 - [**DuckOrCat**](https://github.com/GregoryHue/DuckOrCat) - Machine Learning model. It classifies pictures between Cats and Ducks. It also contains a Scrapy project to create a dataset and a Flask project to use the model in real condition. Using Python, Jupyter, Tensorflow, Flask, Scrapy. Educational purpose. Finished.
-- **UterEabs** - Food distribution plateform similar to Uber Eats. Using VueJS, Express, MongoDB, MySQL, Docker. Rework in progress, see *QuackSnack*. Unfinished and archived.
 - **QuackSnack**([front](https://github.com/QuackSnack/QuackSnackFront) & [back](https://github.com/QuackSnack/QuackSnackBack)) - Food distribution plateform. Using React, Django, PostgreSQL. Educational purpose. Unfinished.
 - [**PySudokuSolver**](https://github.com/GregoryHue/PySudokuSolver) - Program to solve Sudokus of various difficulties. Using Python. Educational purpose. Finished.
 - [**EncodeTextImage**](https://github.com/GregoryHue/EncodeTextImage) - Program to turn a text into an image and vice-versa. Using Python. Educational purpose. Finished.
-- **SearchPatterns** - Program to search patterns in a CSV file. Using C. Educational purpose. Unfinished an archived.
 
 ## Things I'm planning to learn/work on:
 
 - CI/CD
+- Finish a big educational project that I started eyars ago: a service similar to Uber Eats 
 
 ## Contact me
 
