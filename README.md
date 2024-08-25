@@ -6,7 +6,7 @@ Hi, I'm Grégory Hue. I obtained an IT Engineer diploma in 2022 and I have a pas
 
 I wish to work in web/software/mobile/game developpement. I have an interest for data mining and machine learning althought I don't have a lot of experience in both domain yet.
 
-I'm looking for a company environment in which teaching, learning and growing are important values.
+I'm looking for full stack developer position inside of a company in which teaching, learning and growing are important values.
 
 ## Technologies
 
@@ -14,7 +14,6 @@ I'm looking for a company environment in which teaching, learning and growing ar
 
 - Python: Django, Scrapy, Jupyter, Flask
 - JavaScript/TypeScript: React, Expo, Vue
-- C#
 - Database systems: MySQL, PostgreSQL, MongoDB
 
 ### OS I've worked on:
