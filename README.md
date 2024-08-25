@@ -14,7 +14,7 @@ I'm looking for full stack developer position inside of a company in which teach
 
 - Python: Django, Scrapy, Jupyter, Flask
 - JavaScript/TypeScript: React, Expo, Vue
-- Database systems: MySQL, PostgreSQL, MongoDB
+- Database systems: MySQL, PostgreSQL
 
 ### OS I've worked on:
 
