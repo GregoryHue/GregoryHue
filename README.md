@@ -13,7 +13,7 @@ I'm looking for a company environment in which teaching, learning and growing ar
 ### Languages & Frameworks I'm familiar with: 
 
 - Python: Django, Scrapy, Jupyter, Flask
-- JavaScript/TypeScript: React, Expo
+- JavaScript/TypeScript: React, Expo, Vue
 - C#
 - Database systems: MySQL, PostgreSQL, MongoDB
 
