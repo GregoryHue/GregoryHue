@@ -1,6 +1,6 @@
 # Introduction
 
-Hi, I'm Grégory Hue. I obtained an IT Engineer diploma in 2022 and I have a passion for development. I'm currently working as a full-stack devleoper in Apsynet.
+Hi, I'm Grégory Hue. I obtained an IT Engineer diploma in 2022 and I have a passion for development. I'm currently working as a full-stack developer in Apsynet.
 
 ## Career wish
 
